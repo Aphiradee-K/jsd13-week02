@@ -1,0 +1,132 @@
+ {
+    "order_id": "ORD-001",
+    "customer": {
+      "user_id": "user_001",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "081-234-5678"
+    },
+    "items": [
+      {
+        "product_id": "prod_001",
+        "name": "The Pragmatic Programmer",
+        "isbn": "978-0135957059",
+        "quantity": 2,
+        "price": 950,
+        "subtotal": 1900
+      },
+      {
+        "product_id": "prod_003",
+        "name": "Atomic Habits",
+        "isbn": "978-0735211292",
+        "quantity": 1,
+        "price": 550,
+        "subtotal": 550
+      }
+    ],
+    "shipping_address": "123 Main Street, Bangkok, Thailand",
+    "payment": {
+      "method": "credit_card",
+      "status": "paid",
+      "total": 2450
+    },
+    "status": "shipped",
+    "tracking_number": "TH-2026-001",
+    "created_at": "2026-07-10T10:30:00Z",
+    "updated_at": "2026-07-11T14:20:00Z"
+  },
+  {
+    "order_id": "ORD-002",
+    "customer": {
+      "user_id": "user_002",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "082-345-6789"
+    },
+    "items": [
+      {
+        "product_id": "prod_002",
+        "name": "Clean Code",
+        "isbn": "978-0132350884",
+        "quantity": 1,
+        "price": 850,
+        "subtotal": 850
+      }
+    ],
+    "shipping_address": "456 Sukhumvit Road, Bangkok, Thailand",
+    "payment": {
+      "method": "bank_transfer",
+      "status": "paid",
+      "total": 850
+    },
+    "status": "delivered",
+    "tracking_number": "TH-2026-002",
+    "created_at": "2026-07-08T09:15:00Z",
+    "updated_at": "2026-07-10T16:45:00Z"
+  },
+  {
+    "order_id": "ORD-003",
+    "customer": {
+      "user_id": "user_004",
+      "name": "Somchai Jaidee",
+      "email": "somchai.j@example.com",
+      "phone": "084-567-8901"
+    },
+    "items": [
+      {
+        "product_id": "prod_004",
+        "name": "Deep Work",
+        "isbn": "978-1455586691",
+        "quantity": 1,
+        "price": 650,
+        "subtotal": 650
+      },
+      {
+        "product_id": "prod_005",
+        "name": "Design Patterns",
+        "isbn": "978-0201633610",
+        "quantity": 1,
+        "price": 1200,
+        "subtotal": 1200
+      }
+    ],
+    "shipping_address": "321 Ratchadaphisek Road, Bangkok, Thailand",
+    "payment": {
+      "method": "credit_card",
+      "status": "paid",
+      "total": 1850
+    },
+    "status": "processing",
+    "tracking_number": null,
+    "created_at": "2026-07-12T11:00:00Z",
+    "updated_at": "2026-07-12T11:00:00Z"
+  },
+  {
+    "order_id": "ORD-004",
+    "customer": {
+      "user_id": "user_005",
+      "name": "Pornpimol Srisuwan",
+      "email": "pornpimol.s@example.com",
+      "phone": "085-678-9012"
+    },
+    "items": [
+      {
+        "product_id": "prod_001",
+        "name": "The Pragmatic Programmer",
+        "isbn": "978-0135957059",
+        "quantity": 1,
+        "price": 950,
+        "subtotal": 950
+      }
+    ],
+    "shipping_address": "654 Lat Phrao Road, Bangkok, Thailand",
+    "payment": {
+      "method": "promptpay",
+      "status": "pending",
+      "total": 950
+    },
+    "status": "pending",
+    "tracking_number": null,
+    "created_at": "2026-07-13T08:45:00Z",
+    "updated_at": "2026-07-13T08:45:00Z"
+  }

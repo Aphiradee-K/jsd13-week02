@@ -1,0 +1,60 @@
+ {
+    "name": "The Pragmatic Programmer",
+    "description": "Your Journey To Mastery",
+    "price": 950,
+    "category": "Programming",
+    "author": "David Thomas & Andrew Hunt",
+    "isbn": "978-0135957059",
+    "publisher": "Addison-Wesley",
+    "pages": 352,
+    "stock": 25,
+    "image": "pragmatic-programmer.jpg"
+  },
+  {
+    "name": "Clean Code",
+    "description": "A Handbook of Agile Software Craftsmanship",
+    "price": 850,
+    "category": "Programming",
+    "author": "Robert C. Martin",
+    "isbn": "978-0132350884",
+    "publisher": "Prentice Hall",
+    "pages": 464,
+    "stock": 30,
+    "image": "clean-code.jpg"
+  },
+  {
+    "name": "Atomic Habits",
+    "description": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "price": 550,
+    "category": "Self-Help",
+    "author": "James Clear",
+    "isbn": "978-0735211292",
+    "publisher": "Avery",
+    "pages": 320,
+    "stock": 50,
+    "image": "atomic-habits.jpg"
+  },
+  {
+    "name": "Deep Work",
+    "description": "Rules for Focused Success in a Distracted World",
+    "price": 650,
+    "category": "Self-Help",
+    "author": "Cal Newport",
+    "isbn": "978-1455586691",
+    "publisher": "Grand Central Publishing",
+    "pages": 296,
+    "stock": 20,
+    "image": "deep-work.jpg"
+  },
+  {
+    "name": "Design Patterns",
+    "description": "Elements of Reusable Object-Oriented Software",
+    "price": 1200,
+    "category": "Programming",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides",
+    "isbn": "978-0201633610",
+    "publisher": "Addison-Wesley",
+    "pages": 395,
+    "stock": 15,
+    "image": "design-patterns.jpg"
+  }

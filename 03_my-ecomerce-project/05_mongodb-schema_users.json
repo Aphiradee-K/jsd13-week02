@@ -1,0 +1,40 @@
+{
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "hashed_password_123",
+    "phone": "081-234-5678",
+    "address": "123 Main Street, Bangkok, Thailand",
+    "role": "customer"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "password": "hashed_password_456",
+    "phone": "082-345-6789",
+    "address": "456 Sukhumvit Road, Bangkok, Thailand",
+    "role": "customer"
+  },
+  {
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "hashed_password_admin",
+    "phone": "083-456-7890",
+    "address": "789 Silom Road, Bangkok, Thailand",
+    "role": "admin"
+  },
+  {
+    "name": "Somchai Jaidee",
+    "email": "somchai.j@example.com",
+    "password": "hashed_password_789",
+    "phone": "084-567-8901",
+    "address": "321 Ratchadaphisek Road, Bangkok, Thailand",
+    "role": "customer"
+  },
+  {
+    "name": "Pornpimol Srisuwan",
+    "email": "pornpimol.s@example.com",
+    "password": "hashed_password_101",
+    "phone": "085-678-9012",
+    "address": "654 Lat Phrao Road, Bangkok, Thailand",
+    "role": "customer"
+  }
